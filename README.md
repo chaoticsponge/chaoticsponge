@@ -2,8 +2,8 @@
 
 I'm a Cybersecurity and IT professional focused on securing, automating, and optimizing systems.
 
-- 💻 Experienced in **network security**, **system administration**, and **deployment**
-- 🔧 Skilled with **Cloudflare Stuff**, **D1 Storage**, **Burp Suite**, **Vulnerability Assessments**, **Pen tests**, and **Cisco networks**
+- 💻 Experienced in **network security**, **system administration**, **deployment** and **documentation** of course
+- 🔧 Skilled with **Cloudflare Stuff**, **D1 Storage**, **Vulnerability Assessments**, **Pentration tests**
 - 🧠 Hands-on with **Python**, **Bash**, **WebDev** and **Linux** environments (Arch, Ubuntu, Debian etc.)
 - 🧩 Interests: ethical hacking, process automation, and creative tech experiments
 - ⚡ Fun fact: I love bouldering, badminton and diving!
